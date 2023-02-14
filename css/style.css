@@ -40,7 +40,7 @@ header {
 }
 
 .branch, .branch img {
-    width: 90px;
+    width: 100px;
     border-radius: 50%;
 }
 
@@ -103,7 +103,7 @@ main {width: 100%;}
 
 .card:hover { box-shadow: 30px 30px 5px 0px rgba(0, 0, 0, .15); }
 
-.card-img { padding: 1em; }
+.card-img { padding: 1.5em; }
 
 .img-body,
 .img-body img {
